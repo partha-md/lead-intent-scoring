@@ -1,0 +1,5 @@
+fastapi==0.100.0
+uvicorn[standard]==0.22.0
+python-multipart==0.0.6
+pydantic==1.10.11
+openai==1.31.0    # optional; app works without it (fallback used)
